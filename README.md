@@ -201,6 +201,8 @@ _I'll add dedicated pages for these later_
 * mid-2010s paralelnipolis.cz - [Paralelni Polis - statement](https://www.paralelnipolis.cz/o-nas/en/)
 * Dec 2015 (Academic Paper) - [The Moral Character of Cryptographic Work](http://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf) by Phillip Rogaway
 * Oct 2014 - [Glenn Greenwald - Why privacy matters](https://www.ted.com/talks/glenn_greenwald_why_privacy_matters#t-784993)
+* 2017 - [Nothing to Hide - (Italian, Japanese, Portuguese & Spanish subtitles)](https://vimeo.com/218966342)
+* Mar 2014 - [Edward Snowden: Here's how we take back the Internet | TED Talk](https://www.ted.com/talks/edward_snowden_here_s_how_we_take_back_the_internet)
 
 ## Technical Sources
 
