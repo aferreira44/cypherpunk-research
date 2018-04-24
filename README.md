@@ -200,6 +200,7 @@ _I'll add dedicated pages for these later_
 * 2008 Mises.org - [Deflation and Liberty](https://mises.org/document/3726/Deflation-and-Liberty) by Jörg Guido Hülsmann
 * mid-2010s paralelnipolis.cz - [Paralelni Polis - statement](https://www.paralelnipolis.cz/o-nas/en/)
 * Dec 2015 (Academic Paper) - [The Moral Character of Cryptographic Work](http://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf) by Phillip Rogaway
+* Oct 2014 - Glenn Greenwald - Why privacy matters - (https://www.ted.com/talks/glenn_greenwald_why_privacy_matters#t-784993)
 
 ## Technical Sources
 
